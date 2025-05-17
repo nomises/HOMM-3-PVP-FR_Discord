@@ -1,5 +1,5 @@
 # Gabarit de template
-## <img src="Ressource/Heroes3pictogram.png" width="28" height="25" alt="Heroes 3 pictogram"> [Nom exact du template]
+## :Heroes3: [Nom exact du template]
 - **​Auteur** : [Pseudo de l'auteur]
 - **Type** : [Mono-héro / Multi-héros]
 - **Durée estimée** : [1h30 - 3h]
