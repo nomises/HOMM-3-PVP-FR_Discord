@@ -13,6 +13,7 @@
 - **Types de routes** : [Dirt (_Lente_) / Gravel (_Moyenne_) / Cobblestone (_Rapide_)]
 - **Eau** : [NONE / NORMAL / STRONG]
 - **Puissance des monstres** : [WEAK / NORMAL / STRONG]
+- **Difficulté** : [PION / CAVALIER / TOUR / DAME / ROI]
 
 ## ⚔️ Particularités stratégiques :
 [Ajoutez les **objectifs** et les **informations** jugées importantes : Sorts / Compétences / Héroes / Stratégies / Etc]
