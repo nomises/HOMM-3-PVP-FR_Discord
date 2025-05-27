@@ -14,9 +14,11 @@
 - **Eau** : [NONE / NORMAL / STRONG]
 - **Puissance des monstres** : [WEAK / NORMAL / STRONG]
 - **Difficulté** : [PION / CAVALIER / TOUR / DAME / ROI]
+- **Timer suggéré** : [16:00/8:00/2:00]
 
 ## ⚔️ Particularités stratégiques :
 [Ajoutez les **objectifs** et les **informations** jugées importantes : Sorts / Compétences / Héroes / Stratégies / Etc]
+- **Contrôle spell, comment les obtenirs** : [Guilde des mages / Parchemin / Etc.]
 
 ## 📜 Fichier à télécharger :
 - [Lien vers le .json ou .h3m]
