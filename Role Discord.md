@@ -53,4 +53,9 @@ Vous pouvez en mettre autant que vous voulez
 Écrire `done` une fois finis  
 
 ## Création de rôle au départ
-[Assignation au départ](https://www.youtube.com/watch?v=UdcD-ac8rKw)  
+[Assignation au départ](https://www.youtube.com/watch?v=UdcD-ac8rKw)
+
+## Autogénéré des suffixes
+[Phoenix Rising Bot](https://top.gg/fr/bot/611188617934667799)  
+Commande  
+/prefix role: `@Rôle` prefix: `Prefix`
